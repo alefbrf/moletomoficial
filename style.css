@@ -477,21 +477,21 @@ border-bottom:1px solid #919191;
     }
     .frente1,.frente2,.frente3,.costas1,.costas2,.costas3,svg,.imgbolso, .imgfrente, .bolso{
         position: absolute;
-        width: 400px;
-        height: 409px;
+    width: 300px;
+    height: 307px;
     }
     .imgcostas{
         position: absolute;
-        width:398px;
-        height: 410px;
+         width: 300px;
+        height: 307px;
     }
 
    
     .switch__container2{
         display: flex;
         position: absolute;
-        left:135px;
-        margin-top:550px;
+        left: 85px;
+        margin-top: 539px;
         vertical-align: baseline;
         z-index: 13;
     }
