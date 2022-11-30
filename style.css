@@ -524,9 +524,9 @@ border-bottom:1px solid #919191;
     }
     .cores,.coresb,.coresGE, .coresGI,.coresP, .coresVE, .coresVD,.coresBF,.coresBB{
             visibility: hidden;
-            width: 300px;
-            height: 500px;
-            left:120px;
+    width: 226px;
+    height: 370px;
+    left: 85px;
             z-index: 22;
     }
 
